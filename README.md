@@ -21,7 +21,7 @@ Berikut adalah Confusion Matrix dari hasil analisis sentimen:
 - Klasifikasi menggunakan Naive Bayes
 - Evaluasi model dengan Confusion Matrix
 
-## Pengugnaan
+## Penggunaan
 
 1. Buka Google Colab (https://colab.research.google.com/).
 2. 
