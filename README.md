@@ -1,11 +1,16 @@
-# sentiment-analyst
 # Analisis Sentimen Masyarakat Pada Sosial Media Twitter Terhadap Gibran Rakabuming Sebagai Calon Wakil Presiden 2024
 
 Proyek ini melakukan analisis sentimen terhadap tweet-tweet yang menyebutkan Gibran Rakabuming sebagai calon Wakil Presiden Indonesia tahun 2024. Analisis ini menggunakan teknik pemrosesan bahasa alami dan machine learning untuk mengklasifikasikan sentimen tweet sebagai positif atau negatif.
 
 ## Tangkapan Layar
 
-![Confusion Matrix](url-ke-gambar-confusion-matrix.png)
+Berikut adalah Confusion Matrix dari hasil analisis sentimen:
+
+### Confusion Matrix Tanpa Normalisasi
+![Confusion Matrix Tanpa Normalisasi](./images/confusion_matrix_tanpa_normalisasi.png)
+
+### Confusion Matrix Ter-normalisasi
+![Confusion Matrix Ter-normalisasi](./images/confusion_matrix_normalisasi.png)
 
 ## Fitur-Fitur
 
@@ -16,11 +21,13 @@ Proyek ini melakukan analisis sentimen terhadap tweet-tweet yang menyebutkan Gib
 - Klasifikasi menggunakan Naive Bayes
 - Evaluasi model dengan Confusion Matrix
 
+## Pengugnaan
+
+1. Buka Google Colab (https://colab.research.google.com/).
+2. 
+
 ## Instalasi
 
 1. Clone repositori ini:
    ```sh
    git clone https://github.com/username/proyek-anda.git
-
-cd proyek-anda
-
