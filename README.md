@@ -21,3 +21,6 @@ Proyek ini melakukan analisis sentimen terhadap tweet-tweet yang menyebutkan Gib
 1. Clone repositori ini:
    ```sh
    git clone https://github.com/username/proyek-anda.git
+
+cd proyek-anda
+
