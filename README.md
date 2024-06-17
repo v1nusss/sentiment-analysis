@@ -7,10 +7,10 @@ Proyek ini melakukan analisis sentimen terhadap tweet-tweet yang menyebutkan Gib
 Berikut adalah Confusion Matrix dari hasil analisis sentimen:
 
 ### Confusion Matrix Tanpa Normalisasi
-![Confusion Matrix Tanpa Normalisasi](./images/confusion_matrix_tanpa_normalisasi.png)
+![Confusion Matrix Tanpa Normalisasi](./images/confusion_matrix_tanpa_normalisasi1.png)
 
 ### Confusion Matrix Ter-normalisasi
-![Confusion Matrix Ter-normalisasi](./images/confusion_matrix_normalisasi.png)
+![Confusion Matrix Ter-normalisasi](./images/confusion_matrix_normalisasi1.png)
 
 ## Fitur-Fitur
 
