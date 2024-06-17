@@ -24,7 +24,8 @@ Berikut adalah Confusion Matrix dari hasil analisis sentimen:
 ## Penggunaan
 
 1. Buka Google Colab (https://colab.research.google.com/).
-2. 
+2. Unggah file data tweet (sentiment_prabowo&gibran.csv) ke sesi Colab Anda.
+3. Jalankan satu per satu sel kode
 
 ## Instalasi
 
