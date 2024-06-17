@@ -31,4 +31,4 @@ Berikut adalah Confusion Matrix dari hasil analisis sentimen:
 
 1. Clone repositori ini:
    ```sh
-   git clone https://github.com/username/proyek-anda.git
+   git clone [https://github.com/v1nusss/sentiment-analysis.git](https://github.com/v1nusss/sentiment-analysis.git)
